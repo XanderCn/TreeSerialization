@@ -8,8 +8,8 @@ DOUBLE
 STRING
 
 Run options:
-	2GIStreeSerialization -i <input file> - tree will be printer from file;
-	2GIStreeSerialization -i <input file> -o <output file> - tree will be printed from file and saved to file
+	2GIStreeSerialization -i "input file" - tree will be printer from file;
+	2GIStreeSerialization -i "input file" -o <output file> - tree will be printed from file and saved to file
 
 Any other options will not be accepted.
 
