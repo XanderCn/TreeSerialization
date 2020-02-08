@@ -1,0 +1,15 @@
+<node type="1" val="8">
+    <node type="0" val="bar">
+        <node type="2" val="2.015">
+            <node type="1" val="9" />
+        </node>
+        <node type="1" val="2015" />
+        <node type="0" val="2015" />
+    </node>
+    <node type="0" val="baz">
+        <node type="0" val="foo" />
+        <node type="2" val="6.28318">
+            <node type="0" val="halo" />
+        </node>
+    </node>
+</node>
